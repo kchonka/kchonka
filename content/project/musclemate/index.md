@@ -5,6 +5,7 @@ date: 2024-06-01
 
 image: 
     caption: Downloaded from Freepik (www.freepik.com)
+    preview_only: true
 ---
 
 1. **What is MuscleMate?** 
