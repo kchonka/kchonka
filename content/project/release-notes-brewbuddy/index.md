@@ -40,8 +40,10 @@ It allows users to monitor and control their brewing times effortlessly, leading
 
 The timer will count down until your brew is ready! ☕ <br>
 
-To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https://www.w3.org/Provider/Style/dummy.html). <br>
+To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https://www.w3.org/Provider/Style/dummy.html). 
 
+<br>
+<br>
 
 ## ✅ Bug Fixes
 ---
