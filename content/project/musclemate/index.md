@@ -10,6 +10,7 @@ image:
 
 1. **What is MuscleMate?** 
 
+
    MuscleMate is a fitness app designed to help users create personalized workout routines. Our extensive exercise library enables users to easily filter, search, and select exercises that align with their fitness goals and needs.
 
 
