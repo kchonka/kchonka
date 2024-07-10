@@ -7,7 +7,7 @@ image:
     preview_only: true
 ---
 
-## The Brew Timer is Finally Here! ☕
+### The Brew Timer is Finally Here! ☕
 ---
 
 We're thrilled to unveil the long-awaited Brew Timer in this latest version of BrewBuddy! This has been a big undertaking for our team and solves a few problems we’ve heard repeatedly: <br>
@@ -20,19 +20,19 @@ We're committed to making BrewBuddy the best it can be and we hope you enjoy the
 
 <br>
 
-## 👍 New Features
+### 👍 New Features
 ---
 
 The Brew Timer is a new feature that allows users to set timers directly from the recipe screen ⏳ <br>
 
 It allows users to monitor and control their brewing times effortlessly, leading to a more seamless and precise brewing experience. <br>
 
-### What We’ve Implemented:
+#### What We’ve Implemented:
 - Visual countdown display
 - Basic functionality to start, stop, and reset timers
 - Notification alert on completed countdown
 
-### How It Works:
+#### How It Works:
 - Open a recipe 🗒️
 - Tap on the timer icon ⏲️
 - Set your desired time ⏳
@@ -44,7 +44,7 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
 
 <br>
 
-## ✅ Bug Fixes
+### ✅ Bug Fixes
 ---
 
 - Resolved problems with images not loading properly or appearing blurry.
@@ -54,7 +54,7 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
 
 <br>
 
-## 🚀 Improvements
+### 🚀 Improvements
 ---
 
 - Improved mobile responsiveness
@@ -63,7 +63,7 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
 
 <br>
 
-## ☕ What’s Brewing on the Horizon?
+### ☕ What’s Brewing on the Horizon?
 ---
 
 - Coming soon is the **Brewing Events Calendar** - a newly centralized location for all upcoming coffee events, workshops, and festivals 📅
