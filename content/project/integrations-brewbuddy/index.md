@@ -2,15 +2,13 @@
 title: BrewBuddy Integration Capabilities
 summary: A knowledge base article describing the available hardware and software integrations for the fictional BrewBuddy app. 
 date: 2024-06-01
-
-image:
-    preview_only: true
 ---
 
 ## Introduction
 ---
 
-At BrewBuddy, we believe that brewing coffee is a science. To help you craft the perfect brew, BrewBuddy seamlessly integrates with a variety of assistive tools and apps. This article is a brief overview of BrewBuddy’s integration capabilities. <br>
+At BrewBuddy, we believe that brewing coffee is a science. To help you craft the perfect brew, BrewBuddy seamlessly integrates with a variety of assistive tools and apps. This article is a brief overview of BrewBuddy’s integration capabilities. <br><br>
+
 
 ## 1. Smart Scales
 ---
@@ -65,6 +63,10 @@ BrewBuddy integrates with several water quality apps by syncing water quality in
 
 Integrating BrewBuddy with other coffee tools and apps can significantly enhance your coffee brewing experience. You can create a comprehensive and efficient coffee brewing ecosystem by combining the precision of smart scales, the specificity of grind size apps, and the clarity of water quality tools. <br>
 
-This guide is just a brief overview of BrewBuddy’s integrations. For detailed setup information, please read our complete Integrations Guide. If you have any questions or need assistance, please contact our support team at support@brewbuddy.com. <br>
+This guide is just a brief overview of BrewBuddy’s integrations. For detailed setup information, please read our complete Integrations Guide. <br>
+
+If you have any questions or need assistance, please contact our support team at support@brewbuddy.com. <br>
 
 Happy Brewing! <br>
+
+<br>
