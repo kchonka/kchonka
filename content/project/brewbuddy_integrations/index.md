@@ -8,9 +8,9 @@ image:
 ---
 
 ## Introduction
-<br>
-At BrewBuddy, we believe that brewing coffee is a science. To help you craft the perfect brew, BrewBuddy seamlessly integrates with a variety of assistive tools and apps. This article is a brief overview of BrewBuddy’s integration capabilities.
-<br>
+---
+
+At BrewBuddy, we believe that brewing coffee is a science. To help you craft the perfect brew, BrewBuddy seamlessly integrates with a variety of assistive tools and apps. This article is a brief overview of BrewBuddy’s integration capabilities. <br>
 
 ## 1. Smart Scales
 
