@@ -40,17 +40,41 @@ It allows users to monitor and control their brewing times effortlessly, leading
 
 The timer will count down until your brew is ready! ☕ <br>
 
-To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https://www.w3.org/Provider/Style/dummy.html). 
+To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https://www.w3.org/Provider/Style/dummy.html).
 
-<br>
 <br>
 
 ## ✅ Bug Fixes
 ---
-- Fixed issue where the temperature setting defaulted to 0 upon reopening the app.
+
 - Resolved problems with images not loading properly or appearing blurry.
 - Notifications for comments on recipe posts are now delivered promptly.
 - Corrected inaccurate unit conversions on the recipe screen.
+- Fixed issue where the temperature setting defaulted to 0 upon reopening the app.
+
+<br>
+
+## 🚀 Improvements
+---
+
+- Improved mobile responsiveness
+- Faster loading times when accessing larger recipes
+- Enhanced search filters to allowing searching by multiple criteria, including brew method, difficulty level, and coffee origin
+
+<br>
+
+## ☕ What’s Brewing on the Horizon?
+---
+
+- Coming soon is the **Brewing Events Calendar** - a newly centralized location for all upcoming coffee events, workshops, and festivals 📅
+- Enhancements to the Brew Timer, including:
+    - Dark-mode display
+    - Multi-step brew timers
+    - Customizable timer presets
+    - Brew timing history - a record of past timer sessions
+    - Integration with voice assistants like Alexa and Google Assistant
+
+<br>
 
 
 
