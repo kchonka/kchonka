@@ -8,15 +8,15 @@ image:
 ---
 
 ## Introduction
-
+<br>
 At BrewBuddy, we believe that brewing coffee is a science. To help you craft the perfect brew, BrewBuddy seamlessly integrates with a variety of assistive tools and apps. This article is a brief overview of BrewBuddy’s integration capabilities.
-
+<br>
 ## 1. Smart Scales
-
+<br>
 A smart scale is a device that accurately measures kitchen ingredients and sends the information to a smartphone app. Smart scales are helpful in coffee brewing, as they can measure coffee and water with precision down to 0.01 grams. Precision measuring can enhance coffee flavor and consistency by ensuring the correct coffee-to-water ratios. 
 
 BrewBuddy can integrate with several smart scales by syncing measurements to the app via Bluetooth. This integration lets you conveniently monitor and control your brews directly from the Recipe screen. 
-
+<br>
 **Supported Devices:**
 
 - Acaia Pearl Scale
@@ -24,7 +24,8 @@ BrewBuddy can integrate with several smart scales by syncing measurements to the
 - Brewista Smart Scale II
 - Felicita Incline Smart Scale
 - Timemore Black Mirror Basic
-
+<br>
+<br>
 ## 2. Coffee Grind Apps
 
 BrewBuddy integrates with many coffee grind apps, such as Coffee Grind and Filtru. These apps recommend an ideal grind size based on your brewing method, desired coffee strength, and bean type. Using the optimal grind size, you can extract the best possible flavor from your coffee.
