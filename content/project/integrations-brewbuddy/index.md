@@ -2,6 +2,9 @@
 title: BrewBuddy Integration Capabilities
 summary: A knowledge base article describing the available hardware and software integrations for the fictional BrewBuddy app. 
 date: 2024-06-01
+
+image:
+    preview_only: true
 ---
 
 ## Introduction
