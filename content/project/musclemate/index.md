@@ -12,21 +12,25 @@ image:
 
    MuscleMate is a fitness app designed to help users create personalized workout routines. Our extensive exercise library enables users to easily filter, search, and select exercises that align with their fitness goals and needs.
 
+
 2. **Are the workouts suitable for beginners?**
 
    Yes! MuscleMate workouts cater to individuals of ALL fitness levels. Exercises can be filtered by three difficulty levels:
 
-   - **Beginner:** For newcomers and those with limited experience, focusing on fundamental movements at a lower intensity.
-   - **Intermediate:** For individuals seeking progression, featuring varied movements at a moderate intensity.
-   - **Advanced:** For experienced individuals, offering high-intensity exercises demanding greater skill and strength.
+- **Beginner:** For newcomers and those with limited experience, focusing on fundamental movements at a lower intensity.
+- **Intermediate:** For individuals seeking progression, featuring varied movements at a moderate intensity.
+- **Advanced:** For experienced individuals, offering high-intensity exercises demanding greater skill and strength.
+
 
 3. **Where can you perform MuscleMate workouts?**
 
-MuscleMate workouts can be done in various settings: at home, in a gym, or outdoors. The workouts can be adapted to your environment and available equipment.
+   MuscleMate workouts can be done in various settings: at home, in a gym, or outdoors. The workouts can be adapted to your environment and available equipment.
+
 
 4. **How do I find exercises that require specific equipment?**
 
-To find exercises requiring specific equipment, visit the Exercise Discovery page. Select the checkbox next to your available equipment (barbell, kettlebell, TRX cables, etc.) to search accordingly. 
+   To find exercises requiring specific equipment, visit the Exercise Discovery page. Select the checkbox next to your available equipment (barbell, kettlebell, TRX cables, etc.) to search accordingly. 
+
 
 5. **How do I find exercises for a specific muscle group?**
 
