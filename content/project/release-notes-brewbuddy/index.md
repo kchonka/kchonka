@@ -27,7 +27,7 @@ The Brew Timer is a new feature that allows users to set timers directly from th
 
 It allows users to monitor and control their brewing times effortlessly, leading to a more seamless and precise brewing experience. <br>
 
-![Brew Timer](content/project/release-notes-brewbuddy/brew_timer.png)
+![Brew Timer](brew_timer.png "The new Brew Timer on the Recipe page")
 
 #### What We’ve Implemented:
 - Visual countdown display
