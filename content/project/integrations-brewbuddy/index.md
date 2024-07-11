@@ -18,7 +18,8 @@ At BrewBuddy, we believe that brewing coffee is a science. To help you craft the
 
 A smart scale is a device that accurately measures kitchen ingredients and sends the information to a smartphone app. Smart scales are helpful in coffee brewing, as they can measure coffee and water with precision down to 0.01 grams. Precision measuring can enhance coffee flavor and consistency by ensuring the correct coffee-to-water ratios.<br>
 
-BrewBuddy can integrate with several smart scales by syncing measurements to the app via Bluetooth. This integration lets you conveniently monitor and control your brews directly from the Recipe screen. <br>
+BrewBuddy can integrate with several smart scales by syncing measurements to the app via Bluetooth. This integration lets you conveniently monitor and control your brews directly from the Recipe screen.
+
 
 **Supported Devices:**
 
@@ -28,7 +29,6 @@ BrewBuddy can integrate with several smart scales by syncing measurements to the
 - Felicita Incline Smart Scale
 - Timemore Black Mirror Basic
 
-<br>
 
 ### 2. Coffee Grind Apps
 ---
@@ -43,7 +43,6 @@ BrewBuddy integrates with these apps by syncing your preferences and parameters,
 - Filtru
 - iBrewCoffee
 
-<br>
 
 ### 3. Water Quality Apps
 ---
@@ -59,7 +58,6 @@ BrewBuddy integrates with several water quality apps by syncing water quality in
 - H2O Quality Monitor
 - Water Test
 
-<br>
 
 ### Conclusion
 ---
