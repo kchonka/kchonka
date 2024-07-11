@@ -9,4 +9,4 @@ image:
 
 This is a quick reference guide for Python's pytz library. 
 
-Please click the 'PDF' button above to access the document. 
+Please click on the **PDF** button above to access the document. 
