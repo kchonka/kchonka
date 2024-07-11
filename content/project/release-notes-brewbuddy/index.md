@@ -47,3 +47,7 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
     - Customizable timer presets
 
 <br>
+
+{{% callout note %}}
+BrewBuddy is a fictional app created for demonstration purposes in this portfolio.
+{{% /callout %}}
