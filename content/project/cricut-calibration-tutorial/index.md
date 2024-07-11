@@ -2,6 +2,9 @@
 title: How to Calibrate the Cricut Explore Air 2
 summary: Tutorial on calibrating the Cricut Explore Air 2 machine.
 date: 2024-05-01
+
+image:
+    preview_only: true
 ---
 
 Please click on the **PDF** button above to access the tutorial. 
