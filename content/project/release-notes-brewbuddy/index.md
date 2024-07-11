@@ -7,7 +7,7 @@ date: 2024-06-18
 ### The Brew Timer is Finally Here! ☕
 ---
 
-We're thrilled to unveil the long-awaited Brew Timer in this latest version of BrewBuddy! This has been a big undertaking for our team and solves a few problems we’ve heard repeatedly: <br>
+We're thrilled to unveil the long-awaited **Brew Timer** in this latest version of BrewBuddy! This has been a big undertaking for our team and solves a few problems we’ve heard repeatedly: <br>
 
 - “I’m constantly burning my coffee!”
 - “My brews always come out differently!”
@@ -20,7 +20,7 @@ We're committed to making BrewBuddy the best it can be and we hope you enjoy the
 ### 👍 New Features
 ---
 
-The Brew Timer is a new feature that allows users to set timers directly from the recipe screen ⏳ <br>
+The **Brew Timer** is a new feature that allows users to set timers directly from the recipe screen ⏳ <br>
 
 It allows users to monitor and control their brewing times effortlessly, leading to a more seamless and precise brewing experience. <br>
 
@@ -39,8 +39,7 @@ It allows users to monitor and control their brewing times effortlessly, leading
 
 The timer will count down until your brew is ready! ☕ <br>
 
-To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https://www.w3.org/Provider/Style/dummy.html).
-
+To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https://www.w3.org/Provider/Style/dummy.html). 
 <br>
 
 ### ✅ Bug Fixes
@@ -66,14 +65,18 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
 ---
 
 - Coming soon is the **Brewing Events Calendar** - a newly centralized location for all upcoming coffee events, workshops, and festivals 📅
-- Enhancements to the Brew Timer, including:
+- Enhancements to the **Brew Timer**, including:
     - Dark-mode display
     - Multi-step brew timers
     - Customizable timer presets
-    - Brew timing history - a record of past timer sessions
-    - Integration with voice assistants like Alexa and Google Assistant
 
 <br>
 
+### 🌐 Stay Connected
+---
+
+Become a part of our user community! Share your experiences, provide feedback, and connect with other users. Visit our [Community Forum](https://www.w3.org/Provider/Style/dummy.html) to get started.
+
+<br>
 
 
