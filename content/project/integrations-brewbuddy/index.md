@@ -69,7 +69,7 @@ If you have any questions or need assistance, please contact our support team at
 
 Happy Brewing! <br>
 
---
+---
 <br>
 
 {{% callout note %}}
