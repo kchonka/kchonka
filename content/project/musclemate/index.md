@@ -8,15 +8,14 @@ image:
     preview_only: true
 ---
 
-1. **What is MuscleMate?** 
+### 1. What is MuscleMate?
+
+MuscleMate is a fitness app designed to help users create personalized workout routines. Our extensive exercise library enables users to easily filter, search, and select exercises that align with their fitness goals and needs. <br>
 
 
-   MuscleMate is a fitness app designed to help users create personalized workout routines. Our extensive exercise library enables users to easily filter, search, and select exercises that align with their fitness goals and needs.
+### 2. Are the workouts suitable for beginners?
 
-
-2. **Are the workouts suitable for beginners?**
-
-   Yes! MuscleMate workouts cater to individuals of ALL fitness levels. Exercises can be filtered by three difficulty levels:
+Yes! MuscleMate workouts cater to individuals of ALL fitness levels. Exercises can be filtered by three difficulty levels: <br>
 
 - **Beginner:** For newcomers and those with limited experience, focusing on fundamental movements at a lower intensity.
 - **Intermediate:** For individuals seeking progression, featuring varied movements at a moderate intensity.
