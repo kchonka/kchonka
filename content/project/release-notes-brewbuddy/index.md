@@ -2,9 +2,6 @@
 title: BrewBuddy Release v8.3.0 
 summary: Release notes for a fictional app, BrewBuddy - an online platform that offers brewing tips and step-by-step guides to empower coffee enthusiasts to dive into the art of brewing.
 date: 2024-06-18
-
-image:
-    preview_only: true
 ---
 
 ### The Brew Timer is Finally Here! ☕
@@ -27,7 +24,7 @@ The Brew Timer is a new feature that allows users to set timers directly from th
 
 It allows users to monitor and control their brewing times effortlessly, leading to a more seamless and precise brewing experience. <br>
 
-![Brew Timer](brew_timer.png "The new Brew Timer on the Recipe page")
+<!--- ![Brew Timer](brew_timer.png "The Brew Timer on the Recipe page") --->
 
 #### What We’ve Implemented:
 - Visual countdown display
