@@ -9,9 +9,9 @@ date: 2024-06-18
 
 The **Brew Timer** is a new feature that allows users to set timers directly from the recipe screen ⏳ <br>
 
-It allows users to monitor and control their brewing times effortlessly, leading to a more seamless and precise brewing experience. <br>
+It allows users to monitor and control their brewing times effortlessly, leading to a more seamless and precise brewing experience.
+<br>
 
-<!--- ![Brew Timer](brew_timer.png "The Brew Timer on the Recipe page") --->
 
 #### What We’ve Implemented:
 - Visual countdown display
@@ -57,7 +57,6 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
     - Multi-step brew timers
     - Customizable timer presets
 
-<br>
 
 ### 🌐 Stay Connected
 ---
@@ -65,5 +64,3 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
 Become a part of our user community! Share your experiences, provide feedback, and connect with other users. Visit our [Community Forum](https://www.w3.org/Provider/Style/dummy.html) to get started.
 
 <br>
-
-
