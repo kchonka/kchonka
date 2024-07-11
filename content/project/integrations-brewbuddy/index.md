@@ -68,6 +68,7 @@ This guide is just a brief overview of BrewBuddy’s integrations. For detailed 
 If you have any questions or need assistance, please contact our support team at support@brewbuddy.com. <br>
 
 Happy Brewing! <br>
+
 --
 <br>
 
