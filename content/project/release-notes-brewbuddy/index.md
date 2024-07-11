@@ -49,5 +49,5 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
 <br>
 
 {{% callout note %}}
-BrewBuddy is a fictional app created for demonstration purposes, representing an online platform providing brewing tips and step-by-step guides to empower coffee enthusiasts in mastering the art of brewing.
+BrewBuddy is a fictional app created for demonstration purposes, representing an online platform providing brewing tips and step-by-step guides to empower coffee enthusiasts.
 {{% /callout %}}
