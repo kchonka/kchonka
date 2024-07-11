@@ -4,20 +4,7 @@ summary: Release notes for a fictional app, BrewBuddy - an online platform that 
 date: 2024-06-18
 ---
 
-### The Brew Timer is Finally Here! ☕
----
-
-We're thrilled to unveil the long-awaited **Brew Timer** in this latest version of BrewBuddy! This has been a big undertaking for our team and solves a few problems we’ve heard repeatedly: <br>
-
-- “I’m constantly burning my coffee!”
-- “My brews always come out differently!”
-- “It’s frustrating to constantly switch to my clock to time my brews.”
-
-We're committed to making BrewBuddy the best it can be and we hope you enjoy these new updates! 
-
-<br>
-
-### 👍 New Features
+### ☕ The Brew Timer is Finally Here!
 ---
 
 The **Brew Timer** is a new feature that allows users to set timers directly from the recipe screen ⏳ <br>
