@@ -10,7 +10,7 @@ image:
 ### Introduction
 ---
 
-At BrewBuddy, we believe that brewing coffee is a science. To help you craft the perfect brew, BrewBuddy seamlessly integrates with a variety of assistive tools and apps. This article is a brief overview of BrewBuddy’s integration capabilities. <br><br>
+At BrewBuddy, we believe that brewing coffee is a science. To help you craft the perfect brew, BrewBuddy seamlessly integrates with a variety of assistive tools and apps. This article is a brief overview of BrewBuddy’s integration capabilities. <br>
 
 
 ### 1. Smart Scales
@@ -29,6 +29,7 @@ BrewBuddy can integrate with several smart scales by syncing measurements to the
 - Felicita Incline Smart Scale
 - Timemore Black Mirror Basic
 
+<br>
 
 ### 2. Coffee Grind Apps
 ---
@@ -43,6 +44,7 @@ BrewBuddy integrates with these apps by syncing your preferences and parameters,
 - Filtru
 - iBrewCoffee
 
+<br>
 
 ### 3. Water Quality Apps
 ---
@@ -58,6 +60,7 @@ BrewBuddy integrates with several water quality apps by syncing water quality in
 - H2O Quality Monitor
 - Water Test
 
+<br>
 
 ### Conclusion
 ---
