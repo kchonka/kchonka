@@ -29,16 +29,16 @@ MuscleMate workouts can be done in various settings: at home, in a gym, or outdo
 
 ### 4. How do I find exercises that require specific equipment?
 
-   To find exercises requiring specific equipment, visit the Exercise Discovery page. Select the checkbox next to your available equipment (barbell, kettlebell, TRX cables, etc.) to search accordingly. 
+   To find exercises requiring specific equipment, visit the **Exercise Discovery** page. Select the checkbox next to your available equipment (barbell, kettlebell, TRX cables, etc.) to search accordingly. 
 
 
 ### 5. How do I find exercises for a specific muscle group?
 
-To find exercises for a specific muscle group, select the checkbox next to your target muscle groups on the Exercise Discovery page. If you select multiple muscle groups, you'll see compound workouts.
+To find exercises for a specific muscle group, select the checkbox next to your target muscle groups on the **Exercise Discovery** page. If you select multiple muscle groups, you'll see compound workouts.
 
 ### 6. How do I create a custom workout routine?
 
-To create a custom workout routine, use the Workout Builder to select and arrange exercises. You can adjust reps, sets, timing, and other parameters to suit your preferences. Routines can also be renamed and edited like playlists.
+To create a custom workout routine, use the **Workout Builder** to select and arrange exercises. You can adjust reps, sets, timing, and other parameters to suit your preferences. Routines can also be renamed and edited like playlists.
 
 ### 7. Are there limits to the number of custom routines I can create?
 
@@ -50,9 +50,9 @@ Yes, you can heart-react to exercises you like, which saves them to your library
 
 ### 9. I don’t know where to start with building my workout routine. Is there a way to get suggestions?
 
-Absolutely! MuscleMate offers over 100 exercise templates that can provide a foundation for your personalized routine. You can find them in the Templates section on the Exercise Discovery page. 
+Absolutely! MuscleMate offers over 100 exercise templates that can provide a foundation for your personalized routine. You can find them in the Templates section on the **Exercise Discovery** page. 
 
-Additionally, MuscleMate provides expert tips to help you optimize for strength, endurance, or flexibility goals. Visit the ‘Tips’ section on the home page for additional guidance. 
+Additionally, MuscleMate provides expert tips to help you optimize for strength, endurance, or flexibility goals. Visit the **Tips** section on the home page for additional guidance. 
 
 ### 10. Are there video demonstrations available?
 
@@ -60,7 +60,7 @@ Yes! There are video demonstrations on all the exercises to ensure proper form.
 
 ### 11. Is there a way to track my progress over time?
 
-Yes, MuscleMate allows you to log your workouts (including reps, sets, and weights used) so that you can track your progress and see how you're improving. Access the ‘Workout Log’ from the home page to do so. 
+Yes, MuscleMate allows you to log your workouts (including reps, sets, and weights used) so that you can track your progress and see how you're improving. Access the **Workout Log** from the home page to do so. 
 
 ### 12. How often are new exercises added to the app?
 
