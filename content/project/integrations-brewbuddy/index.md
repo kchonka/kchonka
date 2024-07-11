@@ -27,9 +27,8 @@ BrewBuddy can integrate with several smart scales by syncing measurements to the
 - Hario V60 Drip Scale
 - Brewista Smart Scale II
 - Felicita Incline Smart Scale
-- Timemore Black Mirror Basic
+- Timemore Black Mirror Basic <br>
 
-<br>
 
 ### 2. Coffee Grind Apps
 ---
@@ -42,9 +41,8 @@ BrewBuddy integrates with these apps by syncing your preferences and parameters,
 - Coffee Grind
 - Coffee Book
 - Filtru
-- iBrewCoffee
+- iBrewCoffee <br>
 
-<br>
 
 ### 3. Water Quality Apps
 ---
@@ -58,9 +56,7 @@ BrewBuddy integrates with several water quality apps by syncing water quality in
 - WaterCheck
 - WaterWise
 - H2O Quality Monitor
-- Water Test
-
-<br>
+- Water Test <br>
 
 ### Conclusion
 ---
