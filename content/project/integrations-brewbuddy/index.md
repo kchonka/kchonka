@@ -69,4 +69,9 @@ If you have any questions or need assistance, please contact our support team at
 
 Happy Brewing! <br>
 
+
+{{% callout note %}}
+BrewBuddy is a fictional app created for demonstration in this portfolio, representing an online platform providing brewing tips and step-by-step guides to empower coffee enthusiasts in mastering the art of brewing.
+{{% /callout %}}
+
 <br>
