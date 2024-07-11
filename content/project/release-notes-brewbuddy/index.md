@@ -37,14 +37,6 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
 - Fixed issue where the temperature setting defaulted to 0 upon reopening the app.
 
 
-### 🚀 Improvements
----
-
-- Improved mobile responsiveness
-- Faster loading times when accessing larger recipes
-- Enhanced search filters to allowing searching by multiple criteria, including brew method, difficulty level, and coffee origin
-
-
 ### ☕ What’s Brewing on the Horizon?
 ---
 
@@ -53,11 +45,5 @@ To learn more about this feature, please visit [BrewBuddy: The Brew Timer](https
     - Dark-mode display
     - Multi-step brew timers
     - Customizable timer presets
-
-
-### 🌐 Stay Connected
----
-
-Become a part of our user community! Share your experiences, provide feedback, and connect with other users. Visit our [Community Forum](https://www.w3.org/Provider/Style/dummy.html) to get started.
 
 <br>
