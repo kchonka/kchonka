@@ -27,7 +27,7 @@ item:
   - certificate_url: https://technicalwriterhq.com/wp-content/uploads/2024/07/Kateryna-Chonka.pdf 
     date_end: ''
     date_start: '2024-07-08'
-    description: Technical Writing Certification
+    description: Certified Technical Writer by Technical Writer HQ, specializing in creating precise and user-friendly technical documentation. The certification equipped me with advanced skills in writing, editing, and information design, ensuring effective communication of complex concepts.
     organization: Technical Writer HQ
     organization_url: https://technicalwriterhq.com/ 
     title: Certified Technical Writer
