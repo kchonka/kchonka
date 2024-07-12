@@ -60,6 +60,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
+
+# {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Kateryna_Chonka_Resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 ---
 
 Hi, I'm Kat. I'm a former software engineer with 3+ years of experience in backend development across startup ventures, medical technology, and education technology. 
@@ -67,5 +69,3 @@ Hi, I'm Kat. I'm a former software engineer with 3+ years of experience in backe
 As a software developer, I've always enjoyed breaking down complex concepts and translating them into accessible information. Currently, I am pursuing this passion full-time as a **technical writer.**
 
 I am a **Certified Technical Writer** by Technical Writer HQ. This certification, combined with my **BA in Computer Science** from CUNY Hunter College and **3+ years of software development experience** provides me with the technical expertise and skills necessary to produce clear, effective, accessible, and engaging content. 
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Kateryna_Chonka_Resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
