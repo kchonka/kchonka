@@ -29,12 +29,12 @@ experience:
     location: New York (Remote)
     date_start: '2022-08-15'
     date_end: '2023-10-01'
-    description: |2-
-        * Advanced the development of 6 microservice applications on an agile, back-end team.
-        * Designed and engineered four REST API endpoints using the Serverless and FastAPI frameworks with Python to build an internal troubleshooting tool. 
-        * Implemented documentation-as-code practices to expand API documentation in Swagger, facilitating easier access and understanding for cross-functional teams. 
-        * Enhanced team collaboration and knowledge sharing by creating software tutorials and documentation for new features, expanding the team's Google Drive repository.
-        * Authored process documentation for the 1EdTech certification process for compliance with the Learning Tools Interoperability (LTI) standard.
+    description:
+      - Advanced the development of 6 **microservice applications** on an agile, back-end team.
+      - Designed and engineered four REST API endpoints using the Serverless and FastAPI frameworks with Python to build an internal troubleshooting tool. 
+      - Implemented documentation-as-code practices to expand API documentation in Swagger, facilitating easier access and understanding for cross-functional teams. 
+      - Enhanced team collaboration and knowledge sharing by creating software tutorials and documentation for new features, expanding the team's Google Drive repository.
+      - Authored process documentation for the 1EdTech certification process for compliance with the Learning Tools Interoperability (LTI) standard.
   - title: Software Engineer
     company: CureMetrix
     company_url: https://curemetrix.com/
