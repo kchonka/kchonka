@@ -62,7 +62,7 @@ social:
 #email: ""
 ---
 
-I'm a former software engineer with 3+ years of experience in backend development across startup ventures, medical technology, and education technology. 
+Hi, I'm Kat. I'm a former software engineer with 3+ years of experience in backend development across startup ventures, medical technology, and education technology. 
 
 As a software developer, I've always enjoyed breaking down complex concepts and translating them into accessible information. Currently, I am pursuing this passion full-time as a **technical writer.**
 
