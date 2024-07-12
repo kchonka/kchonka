@@ -62,9 +62,9 @@ social:
 #email: ""
 ---
 
-I'm a former software engineer with 3+ years of experience in backend development. My experience spans diverse sectors such as startup ventures, medical technology, and education technology. Throughout my career, I've dedicated myself to advancing technology that positively transforms lives.
+I'm a former software engineer with 3+ years of experience in backend development. My experience spans diverse sectors such as startup ventures, medical technology, and education technology. 
 
-During my time as a software developer, I've always enjoyed breaking down complex concepts and translating them into accessible information. Now, I am looking to pursue this passion full-time as a technical writer. 
+As a software developer, I've always enjoyed breaking down complex concepts and translating them into accessible information. Currently, I am pursuing this passion full-time as a technical writer.
 
 My recent certification from Technical Writer HQ, combined with my BA in Computer Science from CUNY Hunter College and over three years of experience as a developer provides me with a strong foundation to excel in technical writing. These experiences have equipped me with the technical expertise and communication skills necessary to produce clear, effective, and engaging content. 
 
