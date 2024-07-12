@@ -30,7 +30,7 @@ item:
     organization: Technial Writer HQ
     organization_url: https://technicalwriterhq.com/ 
     title: Certified Technical Writer
-    url: 'https://technicalwriterhq.com/technical-writing-certification/'
+    url: https://technicalwriterhq.com/technical-writing-certification/
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
