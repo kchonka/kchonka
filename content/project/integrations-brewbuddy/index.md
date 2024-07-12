@@ -63,7 +63,7 @@ BrewBuddy integrates with several water quality apps by syncing water quality in
 
 Integrating BrewBuddy with other coffee tools and apps can significantly enhance your coffee brewing experience. You can create a comprehensive and efficient coffee brewing ecosystem by combining the precision of smart scales, the specificity of grind size apps, and the clarity of water quality tools. <br>
 
-This guide is just a brief overview of BrewBuddy’s integrations. For detailed setup information, please read our complete Integrations Guide. <br>
+This guide is just a brief overview of BrewBuddy’s integrations. For detailed setup information, please read our complete [Integrations Guide](https://www.w3.org/Provider/Style/dummy.html). <br>
 
 If you have any questions or need assistance, please contact our support team at support@brewbuddy.com. <br>
 
