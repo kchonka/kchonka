@@ -66,6 +66,6 @@ I'm a former software engineer with 3+ years of experience in backend developmen
 
 As a software developer, I've always enjoyed breaking down complex concepts and translating them into accessible information. Currently, I am pursuing this passion full-time as a **technical writer.**
 
-I am a **Certified Technical Writer** by Technical Writer HQ. This certification, comfined with my BA in Computer Science from CUNY Hunter College and over three years of experience as a developer provides me with the technical expertise and skills necessary to produce clear, effective, accessible, and engaging content. 
+I am a **Certified Technical Writer** by Technical Writer HQ. This certification, combined with my **BA in Computer Science from CUNY Hunter College** and **3+ years of software development experience** provides me with the technical expertise and skills necessary to produce clear, effective, accessible, and engaging content. 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Kateryna_Chonka_Resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
