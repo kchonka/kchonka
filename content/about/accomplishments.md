@@ -25,8 +25,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://technicalwriterhq.com/wp-content/uploads/2024/07/Kateryna-Chonka.pdf 
-    date_end: '2024-07-08'
-    date_start: '2024-01-01'
+    date_end: ''
+    date_start: '2024-07-08'
     description: Technical Writing Certification
     organization: Technical Writer HQ
     organization_url: https://technicalwriterhq.com/ 
