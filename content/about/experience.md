@@ -29,12 +29,13 @@ experience:
     location: New York (Remote)
     date_start: '2022-08-15'
     date_end: '2023-10-01'
-    description:
-      - Advanced the development of 6 **microservice applications** on an agile, back-end team.
-      - Designed and engineered four REST API endpoints using the Serverless and FastAPI frameworks with Python to build an internal troubleshooting tool. 
-      - Implemented documentation-as-code practices to expand API documentation in Swagger, facilitating easier access and understanding for cross-functional teams. 
-      - Enhanced team collaboration and knowledge sharing by creating software tutorials and documentation for new features, expanding the team's Google Drive repository.
-      - Authored process documentation for the 1EdTech certification process for compliance with the Learning Tools Interoperability (LTI) standard.
+    description: |2-
+        * Advanced the development of 6 microservice applications on an agile, back-end team.
+        * Designed and engineered four REST API endpoints using the Serverless and FastAPI frameworks with Python to build an internal troubleshooting tool. 
+        * Implemented documentation-as-code practices to expand API documentation in Swagger, facilitating easier access and understanding for cross-functional teams. 
+        * Enhanced team collaboration and knowledge sharing by creating software tutorials and documentation for new features, expanding the team's Google Drive repository.
+        * Authored process documentation for the 1EdTech certification process for compliance with the Learning Tools Interoperability (LTI) standard.
+
   - title: Software Engineer
     company: CureMetrix
     company_url: https://curemetrix.com/
@@ -49,7 +50,16 @@ experience:
         * Transformed Python code for DICOM medical image processing by consolidating over 30 raw scripts into four packages, enhancing cross-team usability and software maintenance. 
         * Coauthored Standard Operating Procedures (SOPs) for software processes with the quality team, resulting in increased compliance and enhanced audit readiness. 
 
-
+  - title: Junior Software Engineer
+    company: Kazuhm
+    company_url: https://connect.org/company/kazuhm/
+    company_logo: kazuhm
+    location: San Diego (Remote)
+    date_start: '2020-11-15'
+    date_end: '2021-02-15'
+    description: |2-
+        * Engaged in code reviews and daily scrum meetings to enhance collaboration and maintain high code quality within a small agile team.
+        * Coordinated with senior developers to containerize Python applications with Docker and integrate into distributed workflows, facilitating student density monitoring on a college campus from four Raspberry Pi devices during the COVID-19 pandemic.
 
 design:
   columns: '1'
