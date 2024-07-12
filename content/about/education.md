@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Bachelor's in Computer Science
-    company: CUNY Hunter College
+    company: City University of New York - Hunter College
     company_url: https://hunter.cuny.edu/
     company_logo: hunter
     location: New York, New York
