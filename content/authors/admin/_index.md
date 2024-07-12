@@ -62,7 +62,10 @@ social:
 #email: ""
 ---
 
-Kateryna Chonka is a former software engineer with a strong background in backend development. With over three years of experience in software engineering, she is well-versed in microservice architecture, cloud infrastructure, and documentation-as-code practices. She has worked across various industries including medical tech, startups, and education tech. Recently, she transitioned to technical writing to pursue her interests in creating clear and engaging software documentation. She is certified by Technical Writer HQ and holds a BA in Computer Science from CUNY Hunter College.
+I'm a former software engineer with 3+ years of experience in backend development. My experience spans diverse sectors such as startup ventures, medical technology, and education technology. Throughout my career, I've dedicated myself to advancing technology that positively transforms lives.
 
+During my time as a software developer, I've always enjoyed breaking down complex concepts and translating them into accessible information. Now, I am looking to pursue this passion full-time as a technical writer. 
+
+My recent certification from Technical Writer HQ, combined with my BA in Computer Science from CUNY Hunter College and over three years of experience as a developer provides me with a strong foundation to excel in technical writing. These experiences have equipped me with the technical expertise and communication skills necessary to produce clear, effective, and engaging content. 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Kateryna_Chonka_Resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
