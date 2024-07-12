@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://technicalwriterhq.com/wp-content/uploads/2024/07/Kateryna-Chonka.pdf 
     date_end: '2024-07-08'
-    date_start: ''
+    date_start: '2024-01-01'
     description: Technical Writing Certification
     organization: Technial Writer HQ
     organization_url: https://technicalwriterhq.com/ 
