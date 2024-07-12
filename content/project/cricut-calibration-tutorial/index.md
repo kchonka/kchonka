@@ -1,5 +1,5 @@
 ---
-title: How to Calibrate the Cricut Explore Air 2
+title: How to Calibrate the Cricut Explore Air 2 for ‘Print Then Cut’
 summary: Tutorial on calibrating the Cricut Explore Air 2 machine.
 date: 2024-05-01
 
