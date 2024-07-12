@@ -27,7 +27,7 @@ experience:
     company_url: https://amplify.com/
     company_logo: amplify
     location: New York (Remote)
-    date_start: '2022-08-01'
+    date_start: '2022-08-15'
     date_end: '2023-10-01'
     description: |2-
         * Advanced the development of 6 microservice applications on an agile, back-end team.
@@ -35,15 +35,21 @@ experience:
         * Implemented documentation-as-code practices to expand API documentation in Swagger, facilitating easier access and understanding for cross-functional teams. 
         * Enhanced team collaboration and knowledge sharing by creating software tutorials and documentation for new features, expanding the team's Google Drive repository.
         * Authored process documentation for the 1EdTech certification process for compliance with the Learning Tools Interoperability (LTI) standard.
+  - title: Software Engineer
+    company: CureMetrix
+    company_url: https://curemetrix.com/
+    company_logo: curemetrix
+    location: La Jolla (Remote)
+    date_start: '2021-02-15'
+    date_end: '2022-08-15'
+    description: |2-
+        * Collaborated with research, product, and regulatory teams on developing four medical CAD AI software products for mammography analysis using a waterfall methodology.
+        * Generated detailed Lucidchart diagrams outlining software architecture and workflows to support three ongoing FDA submissions.
+        * Optimized 10+ Python scripts from the research team for production, improving overall software quality, speed, and maintenance. 
+        * Transformed Python code for DICOM medical image processing by consolidating over 30 raw scripts into four packages, enhancing cross-team usability and software maintenance. 
+        * Coauthored Standard Operating Procedures (SOPs) for software processes with the quality team, resulting in increased compliance and enhanced audit readiness. 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+
 
 design:
   columns: '1'
