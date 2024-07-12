@@ -28,7 +28,7 @@ item:
     date_end: '2024-07-08'
     date_start: '2024-01-01'
     description: Technical Writing Certification
-    organization: Technial Writer HQ
+    organization: Technical Writer HQ
     organization_url: https://technicalwriterhq.com/ 
     title: Certified Technical Writer
     url: https://technicalwriterhq.com/technical-writing-certification/
