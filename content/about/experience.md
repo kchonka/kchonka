@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Amplify
     company_url: https://amplify.com/
-    company_logo: org-gc
+    company_logo: amplify
     location: New York (Remote)
     date_start: '2022-08-01'
     date_end: '2023-10-01'
