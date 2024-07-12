@@ -73,7 +73,7 @@ You can reach out to MuscleMate's customer support team at support@musclemate.co
 <br>
 
 {{% callout note %}}
-MuscleMate is a fictional fitness app featured in this portfolio. This FAQ features entirely fictional Q&A entries designed to simulate real questions users might have about a product like this.
+MuscleMate is a fictional fitness app featured in this portfolio. This FAQ is composed of entirely fictional Q&A entries designed to simulate real questions users might have about a product like this.
 {{% /callout %}}
 
 <br>
