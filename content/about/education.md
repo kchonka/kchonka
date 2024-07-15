@@ -22,16 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  title: Bachelor's in Computer Science
-  company: City University of New York - Hunter College
-  company_url: https://hunter.cuny.edu/
-  company_logo: hunter
-  location: New York, New York
-  date_start: '2015-08-01'
-  date_end: '2020-06-01'
-  description: |2-
-      * Major in computer science with coursework in AI and logical programming. 
-      * Minor in sociology with coursework in urban sociology, race & ethnic studies, and criminology.
+  - title: Bachelor's in Computer Science
+    company: City University of New York - Hunter College
+    company_url: https://hunter.cuny.edu/
+    company_logo: hunter
+    location: New York, New York
+    date_start: '2015-08-01'
+    date_end: '2020-06-01'
+    description: |2-
+        * Major in computer science with coursework in AI and logical programming. 
+        * Minor in sociology with coursework in urban sociology, race & ethnic studies, and criminology.
 
 design:
   columns: '1'
